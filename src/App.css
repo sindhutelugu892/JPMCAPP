@@ -1,0 +1,15 @@
+html,body{
+  min-height:100vh;
+  position:relative;
+  display:block;
+  padding-bottom: 10px;
+ 
+}
+
+footer{
+  position:absolute;
+  bottom:0;
+  width:100%;
+  top:120;
+  
+}
